@@ -19,6 +19,7 @@ private:
 	//The main views
 	View m_MainView;
 	View m_HudView;
+	View m_BackgroundMainView;
 
 	//Delcare a sprite and a Texture
 	//for the background
